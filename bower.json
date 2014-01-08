@@ -1,0 +1,21 @@
+{
+  "name": "classapp",
+  "version": "0.0.1",
+  "authors": [
+    "Gabriel Dumitrescu <gabriel@planetmail.com>"
+  ],
+  "description": "Class App",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "vendor",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery-mobile-bower": "~1.3.2",
+    "apigee-sdk": "~2.0.7"
+  }
+}
