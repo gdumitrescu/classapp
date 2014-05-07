@@ -2,7 +2,7 @@
 
 [Develop an App: Course Information](http://apigee.com/about/learn/develop-app-course-information)
 
-This site is live at http://classapp.herokuapp.com and add lesson number (i.e `/lesson1`) for the lesson you are trying to review.
+This site is live at http://classapp.herokuapp.com and add lesson number (i.e `/lesson2`) for the lesson you are trying to review.
 
 
 ### Credits and thanks to:
