@@ -1,0 +1,19 @@
+{
+// Configure your Run and Preview buttons here.
+
+// Run button configuration
+  "commands": {
+    "Start Server": "python -m SimpleHTTPServer 3000"
+  },
+
+// Preview button configuration
+  "preview": {
+    "Lesson 2": "https://{{domain}}/lesson2/{{index}}",
+    "Lesson 3": "https://{{domain}}/lesson3/{{index}}",
+    "Lesson 4": "https://{{domain}}/lesson4/{{index}}",
+    "Lesson 5": "https://{{domain}}/lesson5/{{index}}",
+    "Lesson 6": "https://{{domain}}/lesson6/www/{{index}}",
+    "Current File (static)": "https://{{domain}}/{{filepath}}",
+    "Box URL": "http://{{domain}}:3000"
+  }
+}
