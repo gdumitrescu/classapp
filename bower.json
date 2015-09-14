@@ -1,9 +1,7 @@
 {
   "name": "classapp",
   "version": "0.0.1",
-  "authors": [
-    "Gabriel Dumitrescu <gabriel@planetmail.com>"
-  ],
+  "authors": "",
   "description": "Class App",
   "license": "MIT",
   "ignore": [
