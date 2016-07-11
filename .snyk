@@ -1,0 +1,21 @@
+version: v1.5.0
+ignore: {}
+patch:
+  'npm:minimatch:20160620':
+    - istanbul > fileset > minimatch:
+        patched: '2016-07-11T03:14:20.883Z'
+  'npm:request:20160119':
+    - karma-phantomjs-launcher > phantomjs > request:
+        patched: '2016-07-11T03:14:20.883Z'
+    - jquerygo > phantom > phantomjs-prebuilt > request:
+        patched: '2016-07-11T03:14:20.883Z'
+    - jquerygo > phantomjs > request:
+        patched: '2016-07-11T03:14:20.883Z'
+  'npm:ws:20160104':
+    - karma > socket.io > socket.io-client > ws:
+        patched: '2016-07-11T03:14:20.883Z'
+  'npm:ws:20160624':
+    - karma > socket.io > engine.io > ws:
+        patched: '2016-07-11T03:26:12.043Z'
+    - karma > socket.io > socket.io-client > engine.io-client > ws:
+        patched: '2016-07-11T03:26:12.043Z'
