@@ -22,7 +22,7 @@
     "karma-phantomjs-launcher": "~0.1.1",
     "karma-requirejs": "~0.2.1",
     "karma-script-launcher": "~0.1.0",
-    "requirejs": "~2.1.10"
+    "requirejs": "~2.3.0"
   },
   "devDependencies": {
     "mocha": "~1.17.0",
